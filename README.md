@@ -8,7 +8,7 @@ Program ini dibuat menggunakan PHP Native tanpa Framework dan menggunakan MySQL 
 kemudian data dipanggil kembali untuk dicetak/diprint menggunakan query SELECT * FROM tabel relawan, dan ada fungsi hapus menggunakan DELETE * FROM serta ubah data menggunakan UPDATE tabel.
 
 Kemudian untuk mengkoneksikan ke database menggunakan fungsi:
-<?php
+(<?php
 $servername = "localhost";
 $database = "uas";
 $username = "root";
